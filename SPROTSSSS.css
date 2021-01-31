@@ -1,0 +1,17 @@
+body{
+  background: rgb(191,147,232);
+background: linear-gradient(90deg, rgba(191,147,232,1) 0%, rgba(114,2,179,1) 50%, rgba(57,6,115,1) 100%);
+}
+img{
+  height:240px;
+  width:650px;
+}
+.firstImage{
+  height:240px;
+  width:1400px;
+}
+.scrollImage{
+  height:200px;
+  width:500px;
+  
+}
